@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "helvetica neue", "helvetica", "arial", sans-serif;
+}
+section {
+    height: 500px;
+    padding: 100px 10%;
+    width: 80%;
+}
+.action {
+    background-color: red;
+}
